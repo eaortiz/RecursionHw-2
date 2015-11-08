@@ -5,9 +5,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        System.out.println(isEven("aabbccdd"));
-        System.out.println(isEven("abcdabcd"));
-        System.out.println(isEven("llooll"));
+        System.out.println(isEven("tattletale"));
 
     }
 
